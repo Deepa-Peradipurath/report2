@@ -11,7 +11,7 @@
     "@material-ui/pickers": "^3.2.8",
     "@material-ui/styles": "^4.8.2",
     "date-fns": "^2.0.0-beta.5",
-    "gatsby": "^2.24.37",
+    "gatsby": "^4.25.7",
     "gatsby-image": "^2.2.34",
     "gatsby-plugin-manifest": "^2.4.22",
     "gatsby-plugin-material-ui": "^2.1.6",
